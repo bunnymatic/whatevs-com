@@ -100,3 +100,6 @@ Now you're ready to remove demo content, which is easy to spot from the landing 
   * Docs: https://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
+
+
+  for dev
